@@ -16,19 +16,19 @@ pip install sqlalchemy <br>
 # Running the Tests
 
 1. Calculate Channel Type Distribution: <br>
-<br>
+
 Function: calculate_channel_type_distribution <br>
 Purpose: To calculate the distribution of channel types in the dataset <br>
 Output: Displays the distribution of channel types <br>
 
 2. Save Top 1000 Records to CSV: <br>
-<br>
+
 Function: save_top_1000_to_csv <br>
 Purpose: Saves the top 1000 records to a CSV file <br>
 Output: Displays a message indicating the successful saving of records <br>
 
 3. Save Top 1000 Records to Database: <br>
-<br>
+
 Function: save_top_1000_to_database <br>
 Purpose: Saves the top 1000 records to a MySQL database table <br>
 Output: Displays a message indicating the successful saving of records <br>
